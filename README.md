@@ -39,5 +39,10 @@ Direct perl: perl searchSpider.pl
 
 ## ScreenShots
 
+https://github.com/bakkiaraj/SearchSpider/blob/main/doc/init.png
+
+https://github.com/bakkiaraj/SearchSpider/blob/main/doc/running.png
 
 Note: Many years back, Before GitHub revolution, I had this project hosted in https://code.google.com/archive/p/saaral-soft-search-spider/ 
+
+
