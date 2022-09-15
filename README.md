@@ -37,4 +37,7 @@ Linux: ./searchSpider
 
 Direct perl: perl searchSpider.pl
 
+## ScreenShots
+
+
 Note: Many years back, Before GitHub revolution, I had this project hosted in https://code.google.com/archive/p/saaral-soft-search-spider/ 
