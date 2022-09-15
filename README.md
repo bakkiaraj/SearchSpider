@@ -39,7 +39,7 @@ Direct perl: perl searchSpider.pl
 
 ## ScreenShots
 
-![Startup Screen](/doc/running.png)
+![Startup Screen](/doc/init.png)
 
 ![Running Screen](/doc/running.png)
 
