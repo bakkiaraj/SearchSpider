@@ -39,6 +39,8 @@ Direct perl: perl searchSpider.pl
 
 ## ScreenShots
 
+![Startup Screen](https://github.com/bakkiaraj/SearchSpider/blob/main/doc/running.png?raw=true)
+
 [[https://github.com/bakkiaraj/SearchSpider/blob/main/doc/running.png?raw=true]]
 
 [[/doc/running.png]]
