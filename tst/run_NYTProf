@@ -1,0 +1,4 @@
+#!/bin/bash
+perl -d:NYTProf ../src/searchSpider.pl
+nytprofhtml
+firefox nytprof/index.html &

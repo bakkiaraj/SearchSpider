@@ -1,0 +1,6 @@
+https://quickchart.io/chart?w=100&h=100&c={type:'line',data:[120,60,50,180,120]}
+
+### GET chart
+GET https://quickchart.io/chart?w=400&h=200&c={type:"line",data:{labels:['.','.','.',],datasets:[{label:"Search Health",data:[4,1,1]}]}}
+Accept: application/json
+

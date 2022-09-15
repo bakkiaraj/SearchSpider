@@ -33,3 +33,12 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+
+#IDE , build out files
+**/.devcontainer
+**/.idea
+**/.run
+**/.vscode
+**/build_out
+*.iml
+

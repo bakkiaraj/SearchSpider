@@ -1,0 +1,3 @@
+Export following environmrnt variable in debug configuration
+
+	PERL5DB=BEGIN { require 'c:/perl/lib/perl5db.pl' }
